@@ -1,5 +1,5 @@
 ## 欢迎到我的测试博客
-
+测试添加一个链接到其他页面[我的第二个页面](./abc.md)
 You can use the [editor on GitHub](https://github.com/trexh/mytest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
